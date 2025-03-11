@@ -157,3 +157,11 @@ elif choice == "📊 Statistics":
 elif choice == "🚪 Exit":
     st.subheader("👋 Exiting...")
     st.warning("Close the app window to exit.")
+
+# Footer
+st.markdown("""
+<hr>
+<div style='text-align: center;'>
+    Created by Faizee ❤️
+</div>
+""", unsafe_allow_html=True)
