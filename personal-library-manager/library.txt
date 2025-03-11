@@ -1,0 +1,23 @@
+[
+    {
+        "title": "The Art of Happiness",
+        "author": "Dalai Lama",
+        "year": 0,
+        "genre": "",
+        "read": true
+    },
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "year": 1997,
+        "genre": "Personal finance",
+        "read": true
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C Martin",
+        "year": 2008,
+        "genre": "Programming",
+        "read": true
+    }
+]
