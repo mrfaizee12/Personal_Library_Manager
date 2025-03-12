@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Clean Code",
+        "author": "Robert C Martin",
+        "year": 2016,
+        "genre": "Programming",
+        "read": true
+    },
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "year": 2019,
+        "genre": "Programming",
+        "read": false
+    }
+]
